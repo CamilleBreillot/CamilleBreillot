@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/camillebreillot/](https://www.linkedin.com/in/camillebreillot/)
 
-- ⚡ Fun fact **After working 4 years at Facebook in sale/marketing, I decided to learn to code and to become a fullstack web developer**
+- ⚡ Fun fact **After working 4 years at Facebook in sales/marketing, I decided to learn to code and to become a fullstack web developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
