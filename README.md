@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
 <h3 align="center">A passionate fullstack web developer from France</h3>
 
-- 🔭 I’m currently working on my coding skills and [Way Different](http://www.way-different.com/)
-
-- 🌱 I’m currently learning **Ruby on Rails, Ruby, JavaScript, HTML/CSS**
+- 🔭 I’m currently working on improving my coding skills
 
 - 👯 I’m looking to collaborate on **Ruby on Rails project**
 
