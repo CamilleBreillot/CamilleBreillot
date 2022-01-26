@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on developing my coding skills (node.js and react)
 
-- 👯 I’m looking to collaborate on **fullstack project**
+- 👯 I’m looking to collaborate on **fullstack projects**
 
 - 🤝 I’m looking for I’m looking for a job as **Fullstack Developer**
 
