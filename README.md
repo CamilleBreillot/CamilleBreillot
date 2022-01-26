@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
 <h3 align="center">A passionate fullstack web developer from France</h3>
 
-- 🔭 I’m currently working on improving my coding skills
+- 🔭 I’m currently working on developing my coding skills (node.js and react)
 
-- 👯 I’m looking to collaborate on **Ruby on Rails project**
+- 👯 I’m looking to collaborate on **fullstack project**
 
 - 🤝 I’m looking for I’m looking for a job as **Fullstack Developer**
 
