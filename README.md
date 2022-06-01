@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
-<h3 align="center">A passionate fullstack web developer from France</h3>
-
-- 🔭 I’m currently working on developing my coding skills (node.js and react)
-
-- 👯 I’m looking to collaborate on **fullstack projects**
-
-- 🤝 I’m looking for I’m looking for a job as **Fullstack Developer**
+<h3 align="center">Junior fullstack web developer from France</h3>
 
 - 📫 How to reach me **camille.breillot@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/camillebreillot/](https://www.linkedin.com/in/camillebreillot/)
-
-- ⚡ Fun fact **After working 4 years at Facebook in sales/marketing, I decided to change career and learn to code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
